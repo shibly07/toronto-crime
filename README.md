@@ -1,6 +1,6 @@
 # Toronto Crime
 
-Toronto crime is a website that shows major crime reported in 2014 (work in progress to show data till present).
+Toronto Crime is a website that shows major crimes reported in 2014 (work in progress to show data till present).
 
 ## Screen Shot
 
@@ -12,14 +12,14 @@ Toronto crime is a website that shows major crime reported in 2014 (work in prog
 
 ## Features
 
-- Drag the map with zoom in and out functionality.
+- Drag the map with zoom-in and out functionality.
 - Shows the location of the crime on the map with a location pin icon.
 - Search addresses to go to the specific location easily.
-- View details of the location and the crime by clicking the location pin icon.
+- View the details of the location and crime by clicking the location pin icon.
 
 ## Tech
 
-Toronto Crime ws created by using the libraries and datasets:
+Toronto Crime was created by using the libraries and datasets:
 
 - [Vite / React](https://vitejs.dev/) - Framework for web design using javaScript.
 - [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/documentation/mapping-apis-and-services/) - ArcGis library for maps.
