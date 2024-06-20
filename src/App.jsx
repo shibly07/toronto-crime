@@ -12,7 +12,7 @@ function App() {
         }}
       >
         {/* Title */}
-        <h1>Toronto Major Crimes in 2014</h1>
+        <h1>Major Crimes Reported In Toronto</h1>
       </div>
 
       {/* Map */}
